@@ -1,5 +1,7 @@
 # Academia Conect
 
+Plataforma para a matéreia de Projeto de Linguagens de Programação (N7/N8)
+
 ## Integrantes
 - Rayssa Paiva 26122448
 - Humberto Eduardo 26184672
