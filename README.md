@@ -14,7 +14,7 @@
 
 ## Descrição do Projeto
 
-**Academia Conect** é uma plataforma para cadastro, gerenciamento e verificação de eventos universitários voltada para estudantes de Ciência da Computação. A aplicação é composta por uma API backend e uma interface frontend, facilitando a criação e organização de eventos acadêmicos. A plataforma oferece funcionalidades de autenticação segura, gestão de usuários e módulos de eventos, visando conectar alunos e aprimorar sua experiência acadêmica.
+**Academia Conect** é uma plataforma para cadastro, gerenciamento e verificação de eventos universitários, voltada para estudantes de Ciência da Computação. A aplicação é composta por uma API desenvolvida em **Python** e uma interface de usuário (UI) em **JavaScript**. A plataforma oferece um ambiente seguro e funcional para organizar eventos acadêmicos, conectar alunos e melhorar sua experiência universitária.
 
 ### 🚀 Funcionalidades
 
