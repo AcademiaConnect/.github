@@ -23,7 +23,7 @@
 
 ### ⚙️ Instalação
 
-- O passo a passo das instalaçãoes estão descritas no Readme de cada repositório - UI e API;
+- O passo a passo das instalaçãoes esta descrito no Readme de cada repositório - UI e API;
 
 📌 Observações Finais
 
