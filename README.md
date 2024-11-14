@@ -16,10 +16,9 @@
 
 ### 🚀 Funcionalidades
 
-- **Login e Autenticação de Usuário**: Permite login seguro e gerenciamento de sessões.
-- **Criação e Gerenciamento de Usuários**: Funcionalidade para criar novos usuários e editar perfis.
-- **Gestão de Eventos**: Módulos para criação, edição e visualização de eventos universitários.
-- **Criação e Visualização de Eventos**: Gerenciamento intuitivo e direcionado de eventos.
+- **Login e Autenticação de Usuário**: Permite login seguro e gerenciamento de sessões de usuários.
+- **Criação e Edição de Usuários**: Funcionalidade para criação de novos usuários e edição de informações de perfil.
+- **Gestão de Eventos**: Módulos para criação, edição e visualização de eventos universitários, com uma interface intuitiva e direcionada.
 
 ### ⚙️ Instalação
 
