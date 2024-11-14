@@ -1,12 +1,14 @@
 # Academia Conect
 
 ## Integrantes
-- Rayssa Paiva - 26122448
-- Humberto Eduardo - 26184672
-- Felipe Massashi - 27217931
-- Victor Emanuel - 26443601
-- Carlos Lessa - 25794337
-- Leonardo de Alcantara - 27261140
+- Rayssa Paiva 26122448
+- Humberto Eduardo 26184672
+- Felipe Massashi 27217931
+- Victor Emanuel 26443601
+- Carlos Lessa 25794337
+- Leonardo de Alcantara 27261140
+- Thallys Xavier 26484242
+- Athos Almeida 26078643
 
 ---
 
@@ -23,6 +25,7 @@
 ### ⚙️ Instalação
 
 - O passo a passo das instalaçãoes esta descrito no Readme de cada repositório - UI e API;
+
 
 📌 Observações Finais
 
