@@ -1,4 +1,4 @@
-# Academia Conect
+# 🌐 Academia Conect
 
 Plataforma para a matéreia de Projeto de Linguagens de Programação (N7/N8)
 
