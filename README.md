@@ -41,3 +41,4 @@ Plataforma para a matéreia de Projeto de Linguagens de Programação (N7/N8)
 
 Academia Conect é uma ferramenta para apoiar alunos de Ciência da Computação no acompanhamento de eventos universitários, fornecendo uma plataforma integrada e segura para a organização e participação em atividades acadêmicas.
 
+
