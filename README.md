@@ -27,6 +27,8 @@ Plataforma para a matéreia de Projeto de Linguagens de Programação (N7/N8)
 ### ⚙️ Instalação
 
 - O passo a passo das instalaçãoes esta descrito no Readme de cada repositório - UI e API;
+- Acesse no navegador
+    - Abra (http://159.65.248.88/) para visualizar a aplicação.
 
 
 📌 Observações Finais
